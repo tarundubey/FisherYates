@@ -14,3 +14,5 @@ SAMPLE INPUT:
 OUTPUT:
 
 [6,2,1,3,5,4]
+
+To run: Visit https://ideone.com and paste the code with and provide the inputs to execute
